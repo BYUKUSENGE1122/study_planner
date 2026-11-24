@@ -1,4 +1,4 @@
-# 📚 My Study Planner
+# My Study Planner
 
 A Flutter mobile application designed to help students organize, manage, and track their study goals.
 
@@ -8,7 +8,7 @@ Developed using **Dart and Flutter** as a group assignment for the Mobile App De
 
 ---
 
-## ✨ Features
+## Features
 
 - **Add Study Goals:** Create a study goal by entering a subject and planned study hours.
 - **Separate Add Goal Screen:** Add new goals through a dedicated form screen.
@@ -30,7 +30,7 @@ Developed using **Dart and Flutter** as a group assignment for the Mobile App De
 
 ---
 
-## 📱 Application Screenshots
+## Application Screenshots
 
 ### 1. Home Screen
 
@@ -124,7 +124,7 @@ study_planner/
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 
